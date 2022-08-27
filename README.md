@@ -19,7 +19,7 @@
 
 ### 3D渲染图
 
-![](images\Front.png)
+![](images/Front.png)
 
 ![](images/Reverse.png)
 
