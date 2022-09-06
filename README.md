@@ -11,7 +11,7 @@
 
 ### 原理图：
 
-![](https://s2.loli.net/2022/08/27/m8wvsHUtNz4Zqi5.png)
+![image.png](https://s2.loli.net/2022/09/06/xeFbBMSY2Rzinky.png)
 
 ### PCB图
 
@@ -23,7 +23,7 @@
 
 ![](images/Reverse.png)
 
-![](images/3d.png)
+![image.png](https://s2.loli.net/2022/09/06/wYksLMrQ5aEDbfc.png)
 
 ### 参考项目：[ESP8266-IR-HOMEKIT](https://github.com/Mixiaoxiao/ESP8266-IR-HOMEKIT)
 
